@@ -1,0 +1,127 @@
+{
+  "name": "Cian J. Duggan",
+  "address": "The Big Shmoke",
+  "accountID": "synthetic_001",
+  "tariff": "Next Fixed 12m",
+  "averageDayConsumption": "",
+  "averageNightConsumption": "",
+  "communicationHistory": [
+    {
+      "index": 1,
+      "summary": {
+        "key_points": [
+          "The customer recently moved into a new property and is setting up their energy account with EON Next",
+          "The customer provided their new address and requested a fixed rate plan with direct debit payments",
+          "EON Next offered the customer a 15-month fixed rate plan with an estimated monthly spend of £93.94",
+          "The customer agreed to the 15-month fixed rate plan and set up direct debit payments starting March 19th",
+          "EON Next enrolled the customer's elderly wife in the priority services register to ensure electricity is prioritized in the event of power cuts"
+        ],
+        "action_items": [
+          "Set up 15-month fixed rate plan with direct debit payment starting March 19th",
+          "Enroll customer's wife in priority services register"
+        ],
+        "sentiment_summary": "Positive",
+        "overall_conclusion": "The customer successfully switched to EON Next and secured a 15-month fixed rate plan with direct debit payments. EON Next also enrolled the customer's elderly wife in the priority services register to ensure their electricity is prioritized."
+      }
+    },
+    {
+      "index": 2,
+      "summary": {
+        "key_points": [
+          "The customer has an outstanding balance of £861.07 on their energy account due to underestimated usage over the past 6 months",
+          "The customer's direct debit has been increased to £254.77 per month, which they cannot afford",
+          "The customer does not understand how the balance has accumulated to such a high amount and is requesting a detailed breakdown",
+          "The provider has offered a £30 goodwill gesture and the option to set up a payment plan to pay off the balance over 12-18 months"
+        ],
+        "action_items": [
+          "Provide the customer with a detailed breakdown of the account charges and credits to explain the outstanding balance",
+          "Set up an affordable payment plan for the customer, potentially over 12-18 months",
+          "Refer the customer to the energy fund program to assist with the debt"
+        ],
+        "sentiment_summary": "The customer is frustrated and confused by the high balance and billing issues, but the provider is working to resolve the situation through payment plan options and goodwill gestures.",
+        "overall_conclusion": "The provider has underestimated the customer's energy usage over the past 6 months, resulting in a high outstanding balance. The customer is unable to afford the recommended monthly payment, but the provider is offering to set up an affordable payment plan and provide a goodwill gesture to help resolve the issue."
+      }
+    },
+    {
+      "index": 3,
+      "summary": {
+        "key_points": [
+          "The customer's elderly father was contacted by a utility warehouse offering a better deal, and the son has been trying to cancel the switch",
+          "The agent confirms that the switch has been requested for October 19th, and the direct debit will remain active",
+          "The agent offers to take care of any other requests the customer may have"
+        ],
+        "action_items": [
+          "Request cancellation of the utility switch on behalf of the customer's father"
+        ],
+        "sentiment_summary": "The overall sentiment is neutral, with the agent trying to be helpful in resolving the issue with the utility switch.",
+        "overall_conclusion": "The agent has agreed to request the cancellation of the utility switch on behalf of the customer's elderly father, who was contacted by another provider offering a better deal. The direct debit will remain active. The agent offers to assist with any other requests the customer may have."
+      }
+    },
+    {
+      "index": 4,
+      "summary": {
+        "key_points": [
+          "The customer has a credit balance of £320 on their account",
+          "The customer wants to keep their direct debit payment at £90.02 and have £300 of the credit balance refunded to their bank account",
+          "The agent confirms the changes and states it will take 7-10 working days for the refund to be processed"
+        ],
+        "action_items": [
+          "Process a £300 refund to the customer's bank account"
+        ],
+        "sentiment_summary": "Neutral",
+        "overall_conclusion": "The customer has a credit balance on their account and wants a portion of it refunded, while keeping their regular direct debit payment unchanged. The agent confirms the changes and provides the timeline for the refund to be processed."
+      }
+    },
+    {
+      "index": 5,
+      "summary": {
+        "key_points": [
+          "The customer called to provide their meter reading and pay for the current and previous month's bills",
+          "The customer provided their account details, including account number, address, and email address",
+          "The customer paid the total amount owed of £596.71 over the phone"
+        ],
+        "action_items": [
+          "Pay the total amount owed of £596.71 for the current and previous month."
+        ],
+        "sentiment_summary": "Neutral",
+        "overall_conclusion": "The customer called to provide their meter reading and pay the outstanding balance for the current and previous month's bills."
+      }
+    }
+  ],
+  "features": {
+    "account_type": "Domestic",
+    "product_group": "Fixed",
+    "fuel_holding": "DF",
+    "has_multiple_property_id": "False",
+    "has_multiple_same_fuel": "False",
+    "has_all_smart_meter": "True",
+    "has_all_classic_prepay_meter": "False",
+    "had_complaint_last1y": "had_1_complaint",
+    "had_complaint_last2y": "had_1_complaint",
+    "had_complaint_lasted_over_1_month": "0",
+    "had_unresolved_complaint": "0",
+    "had_loss_notification_last1y": "0",
+    "had_loss_notification_last2y": "0",
+    "mosaic_age_band": "61_75",
+    "mosaic_household_income_group": "£30,000 - £69,999",
+    "mosaic_tenure": "Owner Occupied",
+    "mosaic_length_of_residency_band": "0_3",
+    "customer_persona": "Stable Retirees",
+    "payment_method_subgroup": "FDD",
+    "valid_email": "True",
+    "valid_landline": "True",
+    "valid_mobile": "True",
+    "have_agreement_ending_1y_no_renew": "0",
+    "sales_channel": "PRICE_COMPARISON",
+    "has_upcoming_agreement": "0",
+    "last_tenure_year_band": "less_than_1y",
+    "count_web_last_6_month_bin": "low",
+    "count_web_last_12_month_bin": "low",
+    "count_web_last_24_month_bin": "never",
+    "count_app_last_6_month_bin": "never",
+    "count_app_last_12_month_bin": "never",
+    "count_app_last_24_month_bin": "never",
+    "churn_1y": "0",
+    "asof_date": "2026-01-30"
+  }
+}

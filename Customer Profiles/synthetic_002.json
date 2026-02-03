@@ -1,0 +1,136 @@
+{
+  "name": "Jonathan Armstrong",
+  "address": "Brazil",
+  "accountID": "synthetic_002",
+  "tariff": "Next Fixed 12m",
+  "averageDayConsumption": "",
+  "averageNightConsumption": "",
+  "communicationHistory": [
+    {
+      "index": 1,
+      "summary": {
+        "key_points": [
+          "The customer called to report an issue with their recent energy bill, stating that the charges seem much higher than expected.",
+          "The customer provided their account details and confirmed they recently switched to a new fixed-rate tariff with the company.",
+          "The agent reviewed the customer's account and found that their energy usage had increased significantly over the past few months, leading to the higher than anticipated bill.",
+          "The agent explained the new tariff details to the customer and provided an estimate of their average monthly costs going forward.",
+          "The customer expressed concern about the higher costs and asked if there were any options to reduce their monthly payments."
+        ],
+        "action_items": [
+          "Review the customer's account and energy usage history in more detail to identify potential ways to lower their monthly costs.",
+          "Provide the customer with information on energy efficiency tips and programs that could help reduce their consumption."
+        ],
+        "sentiment_summary": "The customer was initially frustrated by the higher than expected bill, but the agent was able to provide a clear explanation and demonstrate a willingness to work with the customer to find a solution.",
+        "overall_conclusion": "The agent was able to address the customer's concerns about the recent bill and provide information to help the customer better understand their energy usage and tariff. The next step is to further review the account and explore options to potentially lower the customer's monthly costs."
+      }
+    },
+    {
+      "index": 2,
+      "summary": {
+        "key_points": [
+          "The customer called to report an issue with their smart meter, stating that it had stopped working and they were no longer receiving accurate readings.",
+          "The customer provided their account details and confirmed the address where the smart meter was installed.",
+          "The agent apologized for the inconvenience and scheduled a technician visit to inspect the smart meter and make any necessary repairs.",
+          "The agent also offered to provide the customer with temporary manual meter reading instructions until the technician could resolve the issue.",
+          "The customer expressed frustration with the smart meter problems and the impact on their ability to monitor their energy usage."
+        ],
+        "action_items": [
+          "Schedule a technician visit to inspect and repair the customer's smart meter.",
+          "Provide the customer with instructions for manually reading their meter until the issue is resolved."
+        ],
+        "sentiment_summary": "The customer was clearly frustrated by the smart meter issue and the impact it was having on their ability to manage their energy usage. The agent acknowledged the customer's concerns and took steps to address the problem.",
+        "overall_conclusion": "The agent was able to schedule a technician visit to inspect and repair the customer's smart meter, while also providing temporary manual reading instructions to help the customer monitor their usage in the meantime. The agent demonstrated empathy and a willingness to work with the customer to resolve the issue."
+      }
+    },
+    {
+      "index": 3,
+      "summary": {
+        "key_points": [
+          "The customer called to inquire about switching to a new energy provider, as they had received a promotional offer from a competitor.",
+          "The customer provided their current account details and asked the agent to compare the rates and tariffs between the two providers.",
+          "The agent reviewed the customer's usage history and current tariff, and provided a detailed comparison of the costs and potential savings with the new provider.",
+          "The customer was impressed with the potential savings and asked the agent to initiate the switching process.",
+          "The agent explained the steps involved in the switching process and provided the customer with a timeline for the transition."
+        ],
+        "action_items": [
+          "Initiate the switching process to the new energy provider, including notifying the current provider and coordinating the transition.",
+          "Provide the customer with regular updates on the status of the switching process."
+        ],
+        "sentiment_summary": "The customer was proactive in exploring options to potentially save money on their energy costs, and the agent was able to provide a thorough and helpful comparison to assist the customer in making an informed decision.",
+        "overall_conclusion": "The agent was able to effectively guide the customer through the process of switching to a new energy provider, providing the necessary information and support to ensure a smooth transition."
+      }
+    },
+    {
+      "index": 4,
+      "summary": {
+        "key_points": [
+          "The customer called to report a power outage at their property, stating that they had been without electricity for several hours.",
+          "The customer provided their account details and confirmed the address where the outage was occurring.",
+          "The agent checked the company's system and found that there was an ongoing power outage in the customer's area due to a reported issue with the local grid.",
+          "The agent provided the customer with an estimated restoration time and offered to enroll them in the company's priority services register to ensure they receive updates and assistance during extended outages.",
+          "The customer expressed frustration with the outage, particularly given the cold weather, and asked if there was any way to expedite the restoration process."
+        ],
+        "action_items": [
+          "Enroll the customer in the priority services register to ensure they receive updates and assistance during the power outage.",
+          "Escalate the customer's case to the appropriate team to explore any options for accelerating the restoration process."
+        ],
+        "sentiment_summary": "The customer was understandably frustrated by the extended power outage, especially given the cold weather conditions. The agent demonstrated empathy and a willingness to provide additional support and assistance to the customer.",
+        "overall_conclusion": "The agent was able to provide the customer with information about the ongoing power outage and the estimated restoration time, as well as enroll the customer in the priority services register. The next step is to explore any options for expediting the restoration process to address the customer's concerns."
+      }
+    },
+    {
+      "index": 5,
+      "summary": {
+        "key_points": [
+          "The customer called to inquire about the company's energy efficiency programs and potential rebates or incentives for upgrading their home's insulation.",
+          "The customer explained that their home was older and not well-insulated, leading to high heating and cooling costs.",
+          "The agent provided the customer with information on the company's various energy efficiency programs, including rebates for insulation upgrades, as well as tips for improving home energy efficiency.",
+          "The customer was interested in the rebate program and asked the agent to provide more details on the application process and eligibility requirements.",
+          "The agent offered to schedule a free energy audit for the customer to further assess their home's energy efficiency and identify the best upgrade options."
+        ],
+        "action_items": [
+          "Provide the customer with detailed information on the company's energy efficiency rebate program, including the application process and eligibility requirements.",
+          "Schedule a free energy audit for the customer to assess their home's energy efficiency and identify the best upgrade options."
+        ],
+        "sentiment_summary": "The customer was proactive in seeking ways to improve their home's energy efficiency and reduce their utility costs. The agent was able to provide helpful information and offer additional support through the energy audit program.",
+        "overall_conclusion": "The agent successfully addressed the customer's inquiries about the company's energy efficiency programs and rebates, and took steps to schedule a free energy audit to further assist the customer in identifying and implementing the best home upgrades to improve their energy usage and costs."
+      }
+    }
+  ],
+  "features": {
+    "account_type": "Domestic",
+    "product_group": "SVT",
+    "fuel_holding": "DF",
+    "has_multiple_property_id": "True",
+    "has_multiple_same_fuel": "True",
+    "has_all_smart_meter": "False",
+    "has_all_classic_prepay_meter": "False",
+    "had_complaint_last1y": "had_more_than_1_complaint",
+    "had_complaint_last2y": "had_more_than_1_complaint",
+    "had_complaint_lasted_over_1_month": "1",
+    "had_unresolved_complaint": "0",
+    "had_loss_notification_last1y": "1",
+    "had_loss_notification_last2y": "1",
+    "mosaic_age_band": "46_60",
+    "mosaic_household_income_group": "£70,000 - £99,999",
+    "mosaic_tenure": "Owner Occupied",
+    "mosaic_length_of_residency_band": "11_plus",
+    "customer_persona": "Prosperous Midlife",
+    "payment_method_subgroup": "VDD",
+    "valid_email": "True",
+    "valid_landline": "True",
+    "valid_mobile": "True",
+    "have_agreement_ending_1y_no_renew": "1",
+    "sales_channel": "DIRECT",
+    "has_upcoming_agreement": "0",
+    "last_tenure_year_band": "4_7",
+    "count_web_last_6_month_bin": "mid",
+    "count_web_last_12_month_bin": "high",
+    "count_web_last_24_month_bin": "high",
+    "count_app_last_6_month_bin": "low",
+    "count_app_last_12_month_bin": "low",
+    "count_app_last_24_month_bin": "just_once",
+    "churn_1y": "0",
+    "asof_date": "2026-01-30"
+  }
+}

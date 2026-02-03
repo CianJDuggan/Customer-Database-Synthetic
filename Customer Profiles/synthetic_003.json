@@ -1,0 +1,131 @@
+{
+  "name": "Oisin O'Mara",
+  "address": "The Sticks",
+  "accountID": "synthetic_003",
+  "tariff": "Next Fixed 12m",
+  "averageDayConsumption": "",
+  "averageNightConsumption": "",
+  "communicationHistory": [
+    {
+      "index": 1,
+      "summary": {
+        "key_points": [
+          "The customer recently moved to a new property and is looking to set up their energy account",
+          "The customer provided their new address details and requested to switch to a fixed-rate tariff",
+          "The specialist reviewed the available tariff options and recommended a 12-month fixed tariff with a monthly direct debit of £85",
+          "The customer agreed to the 12-month fixed tariff and provided their bank details to set up the direct debit"
+        ],
+        "action_items": [
+          "Set up the customer on the 12-month fixed tariff with a monthly direct debit of £85",
+          "Send the customer a welcome pack with the full tariff details"
+        ],
+        "sentiment_summary": "The customer was cooperative and appreciative of the specialist's recommendations, leading to a smooth onboarding process.",
+        "overall_conclusion": "The specialist was able to efficiently set up the customer's new energy account on a suitable fixed-rate tariff, with the customer agreeing to the recommended plan."
+      }
+    },
+    {
+      "index": 2,
+      "summary": {
+        "key_points": [
+          "The customer called to report a high energy bill and request a review of their account",
+          "The customer provided their account details and explained that their monthly direct debit had increased from £85 to £120 without prior notice",
+          "The specialist investigated the account history and found that the increase was due to higher than expected energy usage over the winter months",
+          "The specialist recommended the customer switch to a smart meter to better monitor their usage and potentially reduce their direct debit amount"
+        ],
+        "action_items": [
+          "Schedule a smart meter installation appointment for the customer",
+          "Review the customer's account in 3 months and adjust the direct debit amount if necessary"
+        ],
+        "sentiment_summary": "The customer was initially frustrated by the unexpected increase in their direct debit, but the specialist's explanation and recommendation for a smart meter helped to resolve the issue.",
+        "overall_conclusion": "The specialist was able to identify the reason for the direct debit increase and provide a solution to help the customer better manage their energy usage and costs going forward."
+      }
+    },
+    {
+      "index": 3,
+      "summary": {
+        "key_points": [
+          "The customer called to report an issue with their smart meter, stating that it was not displaying the correct energy usage information",
+          "The customer provided their account details and explained that the smart meter had been installed a few months ago",
+          "The specialist troubleshot the issue with the customer and determined that the smart meter was not communicating properly with the energy provider's systems",
+          "The specialist scheduled a technician visit to inspect the smart meter and make any necessary repairs or replacements"
+        ],
+        "action_items": [
+          "Schedule a technician visit to inspect and repair the customer's smart meter",
+          "Follow up with the customer after the technician visit to ensure the issue has been resolved"
+        ],
+        "sentiment_summary": "The customer was frustrated by the smart meter issue, but the specialist was able to quickly diagnose the problem and schedule a technician visit to resolve it.",
+        "overall_conclusion": "The specialist took appropriate steps to address the customer's smart meter issue, including scheduling a technician visit to inspect and repair the device. This should help restore the customer's confidence in the smart meter technology."
+      }
+    },
+    {
+      "index": 4,
+      "summary": {
+        "key_points": [
+          "The customer called to inquire about the possibility of installing solar panels on their property",
+          "The customer provided their account details and explained that they were interested in reducing their energy costs and becoming more environmentally friendly",
+          "The specialist provided information on the company's solar panel installation program, including the available incentives and financing options",
+          "The customer expressed interest in the program and requested a site visit to assess the feasibility of installing solar panels on their home"
+        ],
+        "action_items": [
+          "Schedule a site visit to assess the customer's property for solar panel installation",
+          "Provide the customer with a detailed quote and proposal for the solar panel system"
+        ],
+        "sentiment_summary": "The customer was enthusiastic about the prospect of installing solar panels and the specialist provided helpful information to guide them through the process.",
+        "overall_conclusion": "The specialist was able to engage the customer's interest in the solar panel installation program and set up a site visit to further evaluate the feasibility of the project."
+      }
+    },
+    {
+      "index": 5,
+      "summary": {
+        "key_points": [
+          "The customer called to report a power outage at their property",
+          "The customer provided their account details and confirmed that the outage was affecting their entire home",
+          "The specialist checked the company's system and confirmed that there was a reported power outage in the customer's area",
+          "The specialist provided the customer with an estimated restoration time and advised them to contact the emergency services if they had any immediate safety concerns"
+        ],
+        "action_items": [
+          "Monitor the power outage situation and provide the customer with updates on the restoration progress",
+          "Escalate the issue to the appropriate team if the outage is not resolved within the estimated timeframe"
+        ],
+        "sentiment_summary": "The customer was calm and cooperative, and the specialist provided clear and helpful information to address the power outage issue.",
+        "overall_conclusion": "The specialist was able to efficiently handle the customer's power outage report, providing the necessary information and assurance that the issue was being addressed."
+      }
+    }
+  ],
+  "features": {
+    "account_type": "Domestic",
+    "product_group": "Fixed",
+    "fuel_holding": "SE",
+    "has_multiple_property_id": "False",
+    "has_multiple_same_fuel": "False",
+    "has_all_smart_meter": "True",
+    "has_all_classic_prepay_meter": "False",
+    "had_complaint_last1y": "no_complaint",
+    "had_complaint_last2y": "no_complaint",
+    "had_complaint_lasted_over_1_month": "0",
+    "had_unresolved_complaint": "0",
+    "had_loss_notification_last1y": "0",
+    "had_loss_notification_last2y": "0",
+    "mosaic_age_band": "26_35",
+    "mosaic_household_income_group": "£30,000 - £69,999",
+    "mosaic_tenure": "Privately Rented",
+    "mosaic_length_of_residency_band": "0_3",
+    "customer_persona": "Resourceful Millennials",
+    "payment_method_subgroup": "FDD",
+    "valid_email": "True",
+    "valid_landline": "False",
+    "valid_mobile": "True",
+    "have_agreement_ending_1y_no_renew": "0",
+    "sales_channel": "PRICE_COMPARISON",
+    "has_upcoming_agreement": "1",
+    "last_tenure_year_band": "less_than_1y",
+    "count_web_last_6_month_bin": "high",
+    "count_web_last_12_month_bin": "high",
+    "count_web_last_24_month_bin": "high",
+    "count_app_last_6_month_bin": "high",
+    "count_app_last_12_month_bin": "high",
+    "count_app_last_24_month_bin": "high",
+    "churn_1y": "1",
+    "asof_date": "2026-01-30"
+  }
+}

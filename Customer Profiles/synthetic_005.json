@@ -1,0 +1,131 @@
+{
+  "name": "Tim Morthorst",
+  "address": "Scandinavia",
+  "accountID": "synthetic_005",
+  "tariff": "Next Fixed 12m",
+  "averageDayConsumption": "",
+  "averageNightConsumption": "",
+  "communicationHistory": [
+    {
+      "index": 1,
+      "summary": {
+        "key_points": [
+          "The customer called to report an issue with their electricity meter not working properly.",
+          "The customer explained that the meter was frequently displaying incorrect readings, causing their bills to be much higher than expected.",
+          "The customer requested a technician be sent out to inspect and replace the faulty meter.",
+          "The agent apologized for the inconvenience and scheduled a technician visit for the following week."
+        ],
+        "action_items": [
+          "Schedule a technician visit to inspect and replace the customer's faulty electricity meter.",
+          "Provide the customer with a temporary credit on their account to offset the higher than expected bills until the meter is replaced."
+        ],
+        "sentiment_summary": "The customer was frustrated with the faulty meter and high bills, but the agent was helpful in scheduling a technician visit and offering a temporary credit.",
+        "overall_conclusion": "The key issue was a faulty electricity meter causing the customer to be overcharged. The agent scheduled a technician visit to replace the meter and provided a temporary credit to offset the higher bills until the issue was resolved."
+      }
+    },
+    {
+      "index": 2,
+      "summary": {
+        "key_points": [
+          "The customer called to inquire about switching to a new energy supplier.",
+          "The customer was unhappy with their current provider due to frequent billing issues and poor customer service.",
+          "The agent explained the process for switching suppliers, including the need to provide meter readings and contact information.",
+          "The customer requested a list of available tariffs and estimated savings from switching to a new provider."
+        ],
+        "action_items": [
+          "Provide the customer with a list of available tariffs and estimated savings from switching to a new energy supplier.",
+          "Assist the customer in initiating the switch to their preferred new provider."
+        ],
+        "sentiment_summary": "The customer was frustrated with their current energy provider and eager to switch to a new supplier with better service and pricing.",
+        "overall_conclusion": "The key issue was the customer's dissatisfaction with their current energy provider, leading them to explore switching to a new supplier. The agent provided information on the switching process and agreed to furnish the customer with a list of available tariffs and estimated savings."
+      }
+    },
+    {
+      "index": 3,
+      "summary": {
+        "key_points": [
+          "The customer called to report a power outage at their property.",
+          "The customer was concerned about the impact on their elderly mother, who relied on medical equipment that required electricity.",
+          "The agent quickly escalated the issue and contacted the local network operator to dispatch a technician to investigate the outage.",
+          "The agent provided the customer with an estimated restoration time and offered to arrange alternative accommodation if the outage extended beyond a few hours."
+        ],
+        "action_items": [
+          "Escalate the power outage issue to the local network operator and dispatch a technician to investigate and restore power.",
+          "Offer to arrange alternative accommodation for the customer and their elderly mother if the outage extends beyond a few hours."
+        ],
+        "sentiment_summary": "The customer was understandably concerned about the power outage, especially due to the impact on their elderly mother's medical equipment. The agent responded with urgency and empathy to address the issue.",
+        "overall_conclusion": "The key issue was a power outage at the customer's property, which was particularly concerning due to the elderly mother's medical needs. The agent quickly escalated the issue and arranged for a technician to investigate and restore power, while also offering alternative accommodation if the outage extended."
+      }
+    },
+    {
+      "index": 4,
+      "summary": {
+        "key_points": [
+          "The customer called to report a suspected gas leak at their property.",
+          "The customer could smell gas and was concerned about the safety of their family.",
+          "The agent immediately advised the customer to evacuate the property and contact the emergency gas service.",
+          "The agent also offered to stay on the line with the customer until the emergency services arrived."
+        ],
+        "action_items": [
+          "Advise the customer to evacuate the property and contact the emergency gas service.",
+          "Stay on the line with the customer until the emergency services arrived."
+        ],
+        "sentiment_summary": "The customer was understandably concerned and anxious about the suspected gas leak, but the agent responded with urgency and empathy to ensure the customer's safety.",
+        "overall_conclusion": "The key issue was a suspected gas leak at the customer's property, which the agent addressed with immediate action by advising the customer to evacuate and contact the emergency gas service. The agent also offered to stay on the line with the customer until the emergency services arrived."
+      }
+    },
+    {
+      "index": 5,
+      "summary": {
+        "key_points": [
+          "The customer called to inquire about the status of their application for the Warm Home Discount scheme.",
+          "The customer was a pensioner on a low income and was struggling to afford their energy bills during the winter months.",
+          "The agent reviewed the customer's account and confirmed that their application for the Warm Home Discount had been approved.",
+          "The agent provided the customer with information on when the discount would be applied to their account and the amount they would receive."
+        ],
+        "action_items": [
+          "Confirm the customer's approval for the Warm Home Discount and provide information on when the discount will be applied to their account.",
+          "Offer any additional support or guidance the customer may need to manage their energy costs."
+        ],
+        "sentiment_summary": "The customer was relieved and grateful to receive the confirmation of their Warm Home Discount application, which would help alleviate the financial burden of their energy bills.",
+        "overall_conclusion": "The key issue was the customer's application for the Warm Home Discount, which the agent was able to confirm had been approved. This provided the customer, a pensioner on a low income, with much-needed financial assistance to help cover their energy costs during the winter months."
+      }
+    }
+  ],
+  "features": {
+    "account_type": "Domestic",
+    "product_group": "Fixed",
+    "fuel_holding": "DF",
+    "has_multiple_property_id": "False",
+    "has_multiple_same_fuel": "False",
+    "has_all_smart_meter": "True",
+    "has_all_classic_prepay_meter": "False",
+    "had_complaint_last1y": "had_1_complaint",
+    "had_complaint_last2y": "had_1_complaint",
+    "had_complaint_lasted_over_1_month": "0",
+    "had_unresolved_complaint": "0",
+    "had_loss_notification_last1y": "0",
+    "had_loss_notification_last2y": "0",
+    "mosaic_age_band": "36_45",
+    "mosaic_household_income_group": "£30,000 - £69,999",
+    "mosaic_tenure": "Owner Occupied",
+    "mosaic_length_of_residency_band": "4_7",
+    "customer_persona": "Vulnerable Families",
+    "payment_method_subgroup": "FDD",
+    "valid_email": "True",
+    "valid_landline": "True",
+    "valid_mobile": "True",
+    "have_agreement_ending_1y_no_renew": "0",
+    "sales_channel": "DIRECT",
+    "has_upcoming_agreement": "0",
+    "last_tenure_year_band": "1_4",
+    "count_web_last_6_month_bin": "mid",
+    "count_web_last_12_month_bin": "mid",
+    "count_web_last_24_month_bin": "mid",
+    "count_app_last_6_month_bin": "low",
+    "count_app_last_12_month_bin": "low",
+    "count_app_last_24_month_bin": "low",
+    "churn_1y": "0",
+    "asof_date": "2026-01-30"
+  }
+}

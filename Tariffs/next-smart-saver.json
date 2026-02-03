@@ -1,0 +1,36 @@
+{
+  "tariff": [
+    {
+      "name": "Next Smart Saver",
+      "term": "12 months",
+      "is_fixed_term": true,
+      "description": "Mass market TOU product that has x time banded prices",
+      "target_customer": "Availble to anyone but suits those with less peaky profiles and/or the ability to shift their consumption",
+      "rates": [
+        {
+          "type": "super_off_peak",
+          "times": "02:00 - 05:00"
+        },
+        {
+          "type": "off_peak",
+          "times": "05:00 - 16:00"
+        },
+        {
+          "type": "peak",
+          "times": "16:00 - 19:00"
+        },
+        {
+          "type": "off_peak",
+          "times": "19:00 - 02:00"
+        }
+      ],
+      "exit_fee": {
+        "amount": 0,
+        "description": "NA"
+      },
+      "provider": "E.ON Next",
+      "category": "Smart Saver Mass Market Time of Use tariff",
+      "availability": "available to eligible customers"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Secure Fixed Xm",
+      "term": "18 months",
+      "is_fixed_term": true,
+      "description": "Fixed price product. ABP targeted product which will change tenure based on what our lead product is. Its always priced below however depending if we want to compete or not, it could be as little as \u00a31 cheaper but we like to have it in the region of \u00a310 cheaper than our lead deal.",
+      "target_customer": "Available for a select group of customers which currently are either renewing customers or customers on SVT which we are encouraging to switch to a fixed deal",
+      "rates": null,
+      "exit_fee": {
+        "amount": 50,
+        "description": "External"
+      },
+      "provider": "E.ON Next",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

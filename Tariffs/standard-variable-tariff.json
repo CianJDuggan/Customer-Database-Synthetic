@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Standard Variable Tariff",
+      "term": "No fixed term",
+      "is_fixed_term": null,
+      "description": "Sainsburys Energy Standard Variable Tariff (SVT)",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "No"
+      },
+      "provider": "Sainsbury's Energy",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

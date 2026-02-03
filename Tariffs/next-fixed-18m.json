@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Fixed 18m",
+      "term": "18 months",
+      "is_fixed_term": true,
+      "description": "Fixed price product for 18m term",
+      "target_customer": "Customer looking for price certainty for a longer term. Sometimes the cheapest product so could also be for a price sensitive customer",
+      "rates": null,
+      "exit_fee": {
+        "amount": 50,
+        "description": "External"
+      },
+      "provider": "E.ON Next",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

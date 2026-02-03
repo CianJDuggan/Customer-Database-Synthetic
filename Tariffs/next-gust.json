@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Gust",
+      "term": "12 months",
+      "is_fixed_term": true,
+      "description": "100% renewable energy from UK assets. Fixed price product for 12m term.",
+      "target_customer": "Customers who are looking for a tariff backed by renewable energy. priced at a premium to the 12m tariff factoring in REGO costs",
+      "rates": null,
+      "exit_fee": {
+        "amount": 50,
+        "description": "External"
+      },
+      "provider": "E.ON Next",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

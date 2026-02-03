@@ -1,0 +1,28 @@
+{
+  "tariff": [
+    {
+      "name": "Next Drive Smart",
+      "term": "12 months",
+      "is_fixed_term": true,
+      "description": "Fixed tariff with off peak (00:00 - 07:00) and peak (07:00 - 00:00) rates, and smart charging capability which charges the car when the electricity is the cheapest, meaning the customer is charged the off-peak rate whenever the car is charging",
+      "target_customer": "Priced lower than the EV product Customer with EV - likely to be price sensitive / tech savvy. Should not be for customers with other solutions",
+      "rates": [
+        {
+          "type": "off_peak",
+          "times": "00:00 - 07:00"
+        },
+        {
+          "type": "peak",
+          "times": "07:00 - 00:00"
+        }
+      ],
+      "exit_fee": {
+        "amount": 0,
+        "description": "NA"
+      },
+      "provider": "E.ON Next",
+      "category": "Electric Vehicle Tariffs",
+      "availability": "Available to eligible customers"
+    }
+  ]
+}

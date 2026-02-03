@@ -1,0 +1,36 @@
+{
+  "tariff": [
+    {
+      "name": "Next Pumped",
+      "term": "12 months",
+      "is_fixed_term": true,
+      "description": "TOU product for customers with ASHP. Has 3 different prices for 4 different time periods.",
+      "target_customer": "Customers with ASHP",
+      "rates": [
+        {
+          "type": "super_off_peak",
+          "times": "22:00 - 06:00"
+        },
+        {
+          "type": "off_peak",
+          "times": "06:00 - 16:00"
+        },
+        {
+          "type": "peak",
+          "times": "16:00 - 19:00"
+        },
+        {
+          "type": "off_peak",
+          "times": "19:00 - 22:00"
+        }
+      ],
+      "exit_fee": {
+        "amount": 0,
+        "description": "NA"
+      },
+      "provider": "E.ON Next",
+      "category": "Heat pump tariff",
+      "availability": "available to eligible customers"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Export Exclusive",
+      "term": "12 months",
+      "is_fixed_term": null,
+      "description": "EON Next Electricity customer or with solar panels +/or battery installed by EON/Eco2Solar up to 15kW",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "\u00a30"
+      },
+      "provider": "E.ON Next",
+      "category": "Export tariffs",
+      "availability": "available to eligible customers"
+    }
+  ]
+}

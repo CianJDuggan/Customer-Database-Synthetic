@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Flex",
+      "term": "No fixed term",
+      "is_fixed_term": false,
+      "description": "Eon Next Standard Variable Tariff (SVT). Variable product - changes first of each quarter - customer can leave at any time",
+      "target_customer": "Customers not wanting to fix / non engaged customers",
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "NA"
+      },
+      "provider": "E.ON Next",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

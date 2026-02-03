@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Fixed & Reward 24m",
+      "term": "24 months",
+      "is_fixed_term": null,
+      "description": "Fixed rates for 24 months",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 100,
+        "description": "External"
+      },
+      "provider": "Sainsbury's Energy",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

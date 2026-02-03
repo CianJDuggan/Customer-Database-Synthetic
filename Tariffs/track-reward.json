@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Track & Reward",
+      "term": "12 months",
+      "is_fixed_term": null,
+      "description": "Tracker (rate change quarterly inline with OFGEM price cap, customers get equivalent of \u00a350 in nectar points at each cap change)",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "No"
+      },
+      "provider": "Sainsbury's Energy",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

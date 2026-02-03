@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Solar Max",
+      "term": "12 months",
+      "is_fixed_term": null,
+      "description": "A 12 month fixed term electricity tariff. A variable price per kilowatt hour (kWh) which will update every 30 mins and is based upon wholesale market prices for that half hour. It attracts a \u00a39.99 monthly subscription fee which enables optimisation of the battery and export and includes access to the Next Solar Max app",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "\u00a30"
+      },
+      "provider": "E.ON Next",
+      "category": "Solar & Battery optimisation tariff",
+      "availability": "available to eligible customers"
+    }
+  ]
+}

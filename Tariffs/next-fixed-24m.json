@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Fixed 24m",
+      "term": "24 months",
+      "is_fixed_term": true,
+      "description": "Fixed price product for 24m term",
+      "target_customer": "Customer looking for price certainty for a longer term. Generally not our cheapest product",
+      "rates": null,
+      "exit_fee": {
+        "amount": 100,
+        "description": "External"
+      },
+      "provider": "E.ON Next",
+      "category": "Standard Tariffs",
+      "availability": "Available to all customers"
+    }
+  ]
+}

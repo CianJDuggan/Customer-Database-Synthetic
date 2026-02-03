@@ -1,0 +1,19 @@
+{
+  "tariff": [
+    {
+      "name": "Next Export",
+      "term": "12 months",
+      "is_fixed_term": null,
+      "description": "Customer of another energy supplier and has a capacity of up to 5MW or who had the solar installed by EON on a grant with a capacity of up to 5MW",
+      "target_customer": null,
+      "rates": null,
+      "exit_fee": {
+        "amount": 0,
+        "description": "\u00a30"
+      },
+      "provider": "E.ON Next",
+      "category": "Export tariffs",
+      "availability": "available to eligible customers"
+    }
+  ]
+}

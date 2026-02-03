@@ -1,0 +1,33 @@
+[
+  {
+    "accountID": "synthetic_001",
+    "name": "Cian J. Duggan",
+    "address": "The Big Shmoke",
+    "profile_file": "synthetic_001.json"
+  },
+  {
+    "accountID": "synthetic_002",
+    "name": "Jonathan Armstrong",
+    "address": "Brazil",
+    "profile_file": "synthetic_002.json"
+  },
+  {
+    "accountID": "synthetic_003",
+    "name": "Oisin O'Mara",
+    "address": "The Sticks",
+    "profile_file": "synthetic_003.json"
+  },
+  {
+    "accountID": "synthetic_004",
+    "name": "Philip Allamby",
+    "address": "Buckingham Palace",
+    "profile_file": "synthetic_004.json"
+  },
+  {
+    "accountID": "synthetic_005",
+    "name": "Tim Morthorst",
+    "address": "Scandinavia",
+    "profile_file": "synthetic_005.json"
+  }
+]
+

@@ -3,8 +3,13 @@
   "address": "Smithfield",
   "accountID": "12345678",
   "tariff": "Next Fixed 12m",
-  "averageDayConsumptionProportion": "40%",
-  "averageNightConsumptionProportion": "60%",
+  "consumption": [
+    {
+      "averageDayProportion": "40%",
+      "averageNightProportion": "60%",
+      "yearly": "3400 kWh"
+    }
+  ],
   "communicationHistory": [
     {
       "index": 1,

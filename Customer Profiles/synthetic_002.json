@@ -3,8 +3,8 @@
   "address": "Brazil",
   "accountID": "EY_002",
   "tariff": "Next Fixed 12m",
-  "averageDayConsumption": "",
-  "averageNightConsumption": "",
+  "averageDayConsumptionProportion": "70%",
+  "averageNightConsumption": "30%",
   "communicationHistory": [
     {
       "index": 1,

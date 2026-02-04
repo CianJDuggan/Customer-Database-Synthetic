@@ -2,9 +2,14 @@
   "name": "Tim Morthorst",
   "address": "Copenhagen",
   "accountID": "21018642",
-  "tariff": "Next Fixed 12m",
-  "averageDayConsumptionProportion": "30%",
-  "averageNightConsumptionProportion": "70%",
+  "tariff": "Standard Variable Tariff",
+  "consumption": [
+    {
+      "averageDayProportion": "30%",
+      "averageNightProportion": "70%",
+      "yearly": "2600 kWh"
+    }
+  ],
   "communicationHistory": [
     {
       "index": 1,

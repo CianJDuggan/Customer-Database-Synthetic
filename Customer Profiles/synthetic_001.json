@@ -3,8 +3,8 @@
   "address": "The Big Shmoke",
   "accountID": "EY_001",
   "tariff": "Next Fixed 12m",
-  "averageDayConsumption": "",
-  "averageNightConsumption": "",
+  "averageDayConsumptionProportion": "40%",
+  "averageNightConsumptionProportion": "60%",
   "communicationHistory": [
     {
       "index": 1,

@@ -3,8 +3,8 @@
   "address": "Scandinavia",
   "accountID": "EY_005",
   "tariff": "Next Fixed 12m",
-  "averageDayConsumption": "",
-  "averageNightConsumption": "",
+  "averageDayConsumptionProportion": "30%",
+  "averageNightConsumptionProportion": "70%",
   "communicationHistory": [
     {
       "index": 1,

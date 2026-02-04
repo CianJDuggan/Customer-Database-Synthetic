@@ -3,8 +3,8 @@
   "address": "Buckingham Palace",
   "accountID": "EY_004",
   "tariff": "Next Pledge",
-  "averageDayConsumption": "",
-  "averageNightConsumption": "",
+  "averageDayConsumptionProportion": "50%",
+  "averageNightConsumptionProportion": "50%",
   "communicationHistory": [
     {
       "index": 1,

@@ -3,8 +3,8 @@
   "address": "The Sticks",
   "accountID": "EY_003",
   "tariff": "Next Fixed 12m",
-  "averageDayConsumption": "",
-  "averageNightConsumption": "",
+  "averageDayConsumptionProportion": "90%",
+  "averageNightConsumptionProportion": "10%",
   "communicationHistory": [
     {
       "index": 1,

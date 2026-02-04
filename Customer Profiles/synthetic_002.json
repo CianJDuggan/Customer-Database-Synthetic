@@ -4,7 +4,7 @@
   "accountID": "EY_002",
   "tariff": "Next Fixed 12m",
   "averageDayConsumptionProportion": "70%",
-  "averageNightConsumption": "30%",
+  "averageNightConsumptionProportion": "30%",
   "communicationHistory": [
     {
       "index": 1,

@@ -2,9 +2,14 @@
   "name": "Philip Allamby",
   "address": "Baker Street",
   "accountID": "87654321",
-  "tariff": "Next Pledge",
-  "averageDayConsumptionProportion": "50%",
-  "averageNightConsumptionProportion": "50%",
+  "tariff": "Next Drive",
+  "consumption": [
+    {
+      "averageDayProportion": "50%",
+      "averageNightProportion": "50%",
+      "yearly": "3900 kWh"
+    }
+  ],
   "communicationHistory": [
     {
       "index": 1,
@@ -91,7 +96,7 @@
           "Advise the customer to take advantage of lower usage in the summer months to try to pay down some of the debt",
           "Revisit the plan with the customer in 3 months"
         ],
-        "sentiment_summary": "The customer is clearly stressed and anxiou about their financial situation, but the specialist was able to provide a reasonable solution and offer support.",
+        "sentiment_summary": "The customer is clearly stressed and anxious about their financial situation, but the specialist was able to provide a reasonable solution and offer support.",
         "overall_conclusion": "The specialist was able to work with the customer to set up a temporary fixed rate plan that the customer could afford, while advising them to take advantage of lower usage in the summer to try to pay down some of the debt. The customer seemed appreciative of the specialist's help and understanding."
       }
     }

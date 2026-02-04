@@ -1,0 +1,382 @@
+{
+  "features": [
+    {
+      "name": "account_type",
+      "options": [
+        {
+          "Domestic": "The account is for a residential property.",
+          "Occupier": "The account holder is an occupier, but may not be the property owner."
+        }
+      ]
+    },
+    {
+      "name": "product_group",
+      "options": [
+        {
+          "Fixed": "The customer is on a fixed-term contract with a guaranteed price per unit of energy.",
+          "SVT": "The customer is on a Standard Variable Tariff, where the price can fluctuate.",
+          "Mixed": "The customer has a mix of fixed and variable rate products.",
+          "No Active Agreement": "The customer does not have an active energy supply agreement."
+        }
+      ]
+    },
+    {
+      "name": "had_loss_notification_last1y",
+      "options":[
+        {
+          "0": "",
+          "1": ""
+        }
+      ]
+    },
+    {
+      "name": "had_loss_notification_last2y",
+      "options":[
+        {
+          "0": "",
+          "1": ""
+        }
+      ]
+    },
+    {
+      "name": "fuel_holding",
+      "options":[
+        {
+          "DF": "Dual Fuel - the customer has both gas and electricity with E.ON Next.",
+          "SE": "Single Electricity - the customer only has electricity with E.ON Next.",
+          "SG" : "Single Gas - the customer only has gas with E.ON Next.",
+          "Unknown": "The customer's fuel holding is unknown.",
+          "XDF": "",
+          "XSE": "",
+          "XSG": ""
+        }
+      ]
+    },
+    {
+      "name": "has_multiple_property_id",
+      "options":[
+        {
+          "True": "The customer is associated with multiple property IDs.",
+          "False": "The customer is associated with a single property ID.",
+          "Unknown": "It is unknown if the customer is associated with multiple property IDs."
+        }
+      ]
+    },
+    {
+      "name": "has_multiple_same_fuel",
+      "options":[
+        {
+          "True": "The customer has multiple instances of the same fuel type.",
+          "False": "The customer does not have multiple instances of the same fuel type.",
+          "Unknown": "It is unknown if the customer has multiple instances of the same fuel type."
+        }
+      ]
+    },
+    {
+      "name": "has_all_smart_meter",
+      "options":[
+        {
+          "True": "All of the customer's meters are smart meters.",
+          "False": "Not all of the customer's meters are smart meters.",
+          "Unknown": "It is unknown if all of the customer's meters are smart meters."
+        }
+      ]
+    },
+    {
+      "name": "has_all_classic_prepay_meter",
+      "options":[
+        {
+          "True": "All of the customer's meters are classic prepayment meters.",
+          "False": "Not all of the customer's meters are classic prepayment meters.",
+          "Unknown": "It is unknown if all of the customer's meters are classic prepayment meters."
+        }
+      ]
+    },
+    {
+      "name": "had_complaint_last1y",
+      "options":[
+        {
+          "no_complaint": "The customer has not made a complaint in the last year.",
+          "had_1_complaint": "The customer has made one complaint in the last year.",
+          "had_more_than_1_complaint": "The customer has made more than one complaint in the last year."
+        }
+      ]
+    },
+    {
+      "name": "had_complaint_last2y",
+      "options":[
+        {
+          "no_complaint": "The customer has not made a complaint in the last two years.",
+          "had_1_complaint": "The customer has made one complaint in the last two years.",
+          "had_more_than_1_complaint": "The customer has made more than one complaint in the last two years."
+        }
+      ]
+    },
+    {
+      "name": "had_complaint_lasted_over_1_month",
+      "options":[
+        {
+          "0": "No, the customer has not had a complaint that lasted over one month.",
+          "1": "Yes, the customer has had a complaint that lasted over one month."
+        }
+      ]
+    },
+    {
+      "name": "had_unresolved_complaint",
+      "options":[
+        {
+          "0": "The customer does not have any unresolved complaints.",
+          "1": "The customer has at least one unresolved complaint."
+        }
+      ]
+    },
+    {
+      "name": "mosaic_age_band",
+      "options":[
+        {
+          "18_25": "The customer's age is estimated to be between 18 and 25.",
+          "26_35": "The customer's age is estimated to be between 26 and 35.",
+          "36_45": "The customer's age is estimated to be between 36 and 45.",
+          "46_60": "The customer's age is estimated to be between 46 and 60.",
+          "61_75": "The customer's age is estimated to be between 61 and 75.",
+          "76_plus": "The customer's age is estimated to be 76 or older.",
+          "Unknown": "The customer's age is unknown."
+        }
+      ]
+    },
+    {
+      "name": "mosaic_household_income_group",
+      "options":[
+        {
+          "< £30,000": "The customer's household income is estimated to be less than £30,000.",
+          "£30,000 - £69,999": "The customer's household income is estimated to be between £30,000 and £69,999.",
+          "£70,000 - £99,999": "The customer's household income is estimated to be between £70,000 and £99,999.",
+          "> £100,000": "The customer's household income is estimated to be greater than £100,000.",
+          "Unknown": "The customer's household income is unknown."
+        }
+      ]
+    },
+    {
+      "name": "mosaic_tenure",
+      "options":[
+        {
+          "Owner Occupied": "The customer owns their property.",
+          "Council/Housing Association": "The customer rents from a council or housing association.",
+          "Privately Rented": "The customer rents from a private landlord.",
+          "Unknown": "The customer's tenure is unknown."
+        }
+      ]
+    },
+    {
+      "name": "mosaic_length_of_residency_band",
+      "options":[
+        {
+          "0_3": "The customer has lived at their current address for 0-3 years.",
+          "4_7": "The customer has lived at their current address for 4-7 years.",
+          "8_10": "The customer has lived at their current address for 8-10 years.",
+          "11_plus": "The customer has lived at their current address for 11 or more years.",
+          "Unknown": "The customer's length of residency is unknown."
+        }
+      ]
+    },
+    {
+      "name": "customer_persona",
+      "options":[
+        {
+          "Affluent Families": "Represents affluent families, likely with high disposable income.",
+          "Stable Retirees": "Represents retirees with a stable financial situation.",
+          "Prosperous Midlife": "Represents individuals in midlife with a prosperous financial situation.",
+          "Struggling Elders": "Represents elderly individuals who may be financially vulnerable.",
+          "Older and Opulent": "Represents wealthy older individuals.",
+          "Wealthy Executives": "Represents high-earning executives.",
+          "Emerging Professionals": "Represents young professionals at the start of their careers.",
+          "Resourceful Millennials": "Represents millennials who are financially resourceful.",
+          "Vulnerable Families": "Represents families who may be financially vulnerable.",
+          "Other": "A customer persona that does not fit into the other categories.",
+          "Unknown": "The customer's persona is unknown."
+        }
+      ]
+    },
+    {
+      "name": "payment_method_subgroup",
+      "options":[
+        {
+          "FDD": "Fixed Direct Debit - a fixed amount is paid automatically each month.",
+          "POROB": "Payment on Receipt of Bill - the customer pays the bill amount after receiving it.",
+          "Prepayment": "The customer pays for energy in advance using a prepayment meter.",
+          "VDD": "Variable Direct Debit - the amount paid automatically each month varies based on energy usage."
+        }
+      ]
+    },
+    {
+      "name": "valid_email",
+      "options":[
+        {
+          "True": "The customer has a valid email address on file.",
+          "False": "The customer does not have a valid email address on file."
+        }
+      ]
+    },
+    {
+      "name": "valid_landline",
+      "options":[
+        {
+          "True": "The customer has a valid landline number on file.",
+          "False": "The customer does not have a valid landline number on file."
+        }
+      ]
+    },
+    {
+      "name": "valid_mobile",
+      "options":[
+        {
+          "True": "The customer has a valid mobile number on file.",
+          "False": "The customer does not have a valid mobile number on file."
+        }
+      ]
+    },
+    {
+      "name": "have_agreement_ending_1y_no_renew",
+      "options":[
+        {
+          "0": "The customer does not have an agreement ending within a year without renewal.",
+          "1": "The customer has an agreement ending within a year and has not renewed."
+        }
+      ]
+    },
+    {
+      "name": "sales_channel",
+      "options":[
+        {
+          "DIRECT": "The customer signed up directly with E.ON Next.",
+          "ACQUISITION": "The customer was acquired through a partnership or acquisition.",
+          "DIGI_TELESALES": "The customer signed up through digital telesales.",
+          "LANDLORD": "The customer was signed up via their landlord.",
+          "NEW_TENANT": "The customer is a new tenant in a property supplied by the company.",
+          "PRICE_COMPARISON": "The customer signed up via a price comparison website.",
+          "SUPPLIER_OF_LAST_RESORT": "The customer was transferred as part of a Supplier of Last Resort event.",
+          "Unknown": "The sales channel is unknown."
+        }
+      ]
+    },
+    {
+      "name": "has_upcoming_agreement",
+      "options":[
+        {
+          "0": "The customer does not have an upcoming agreement.",
+          "1": "The customer has an upcoming agreement."
+        }
+      ]
+    },
+    {
+      "name": "last_tenure_year_band",
+      "options":[
+        {
+          "less_than_1y": "The customer's last tenure was less than 1 year.",
+          "1_4": "The customer's last tenure was between 1 and 4 years.",
+          "4_7": "The customer's last tenure was between 4 and 7 years.",
+          "7_11": "The customer's last tenure was between 7 and 11 years.",
+          "11_plus": "The customer's last tenure was 11 years or more.",
+          "Unknown": "The customer's last tenure duration is unknown."
+        }
+      ]
+    },
+    {
+      "name": "count_web_last_6_month_bin",
+      "options":[
+        {
+          "never": "The customer has not accessed their account online in the last 6 months.",
+          "just_once": "The customer has accessed their account online once in the last 6 months.",
+          "low": "The customer has a low frequency of online account access in the last 6 months.",
+          "mid": "The customer has a medium frequency of online account access in the last 6 months.",
+          "high": "The customer has a high frequency of online account access in the last 6 months."
+        }
+      ]
+    },
+    {
+      "name": "count_web_last_12_month_bin",
+      "options":[
+        {
+          "never": "The customer has not accessed their account online in the last 12 months.",
+          "just_once": "The customer has accessed their account online once in the last 12 months.",
+          "low": "The customer has a low frequency of online account access in the last 12 months.",
+          "mid": "The customer has a medium frequency of online account access in the last 12 months.",
+          "high": "The customer has a high frequency of online account access in the last 12 months."
+        }
+      ]
+    },
+    {
+      "name": "count_web_last_24_month_bin",
+      "options":[
+        {
+          "never": "The customer has not accessed their account online in the last 24 months.",
+          "just_once": "The customer has accessed their account online once in the last 24 months.",
+          "low": "The customer has a low frequency of online account access in the last 24 months.",
+          "mid": "The customer has a medium frequency of online account access in the last 24 months.",
+          "high": "The customer has a high frequency of online account access in the last 24 months."
+        }
+      ]
+    },
+    {
+      "name": "count_app_last_6_month_bin",
+      "options":[
+        {
+          "never": "The customer has not used the app in the last 6 months.",
+          "just_once": "The customer has used the app once in the last 6 months.",
+          "low": "The customer has a low frequency of app usage in the last 6 months.",
+          "mid": "The customer has a medium frequency of app usage in the last 6 months.",
+          "high": "The customer has a high frequency of app usage in the last 6 months."
+        }
+      ]
+    },
+    {
+      "name": "count_app_last_12_month_bin",
+      "options":[
+        {
+          "never": "The customer has not used the app in the last 12 months.",
+          "just_once": "The customer has used the app once in the last 12 months.",
+          "low": "The customer has a low frequency of app usage in the last 12 months.",
+          "mid": "The customer has a medium frequency of app usage in the last 12 months.",
+          "high": "The customer has a high frequency of app usage in the last 12 months."
+        }
+      ]
+    },
+    {
+      "name": "count_app_last_24_month_bin",
+      "options":[
+        {
+          "never": "The customer has not used the app in the last 24 months.",
+          "just_once": "The customer has used the app once in the last 24 months.",
+          "low": "The customer has a low frequency of app usage in the last 24 months.",
+          "mid": "The customer has a medium frequency of app usage in the last 24 months.",
+          "high": "The customer has a high frequency of app usage in the last 24 months."
+        }
+      ]
+    },
+    {
+      "name": "churn_1y",
+      "options":[
+        {
+          "0": "The customer has not churned in the last year.",
+          "1": "The customer has churned in the last year."
+        }
+      ]
+    },
+    {
+      "name": "asof_date",
+      "options":[
+        {
+          "202y-mm-dd": "Date of the model run"
+        }
+      ]
+    },
+    {
+      "name": "account_id",
+      "options":[
+        {
+          "XXXXXXXX": "Unique identifier for the account"
+        }
+      ]
+    },
+  ]
+}

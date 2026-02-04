@@ -2,9 +2,14 @@
   "name": "Oisin O'Mara",
   "address": "Trinity College",
   "accountID": "35791113",
-  "tariff": "Next Fixed 12m",
-  "averageDayConsumptionProportion": "90%",
-  "averageNightConsumptionProportion": "10%",
+  "tariff": "Next Gust",
+  "consumption": [
+    {
+      "averageDayProportion": "90%",
+      "averageNightProportion": "10%",
+      "yearly": "3000 kWh"
+    }
+  ],
   "communicationHistory": [
     {
       "index": 1,

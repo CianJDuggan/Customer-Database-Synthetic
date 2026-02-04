@@ -2,9 +2,14 @@
   "name": "Jonathan Armstrong",
   "address": "Donegall Square",
   "accountID": "24681012",
-  "tariff": "Next Fixed 12m",
-  "averageDayConsumptionProportion": "70%",
-  "averageNightConsumptionProportion": "30%",
+  "tariff": "Next Pledge",
+    "consumption": [
+    {
+      "averageDayProportion": "70%",
+      "averageNightProportion": "30%",
+      "yearly": "3200 kWh"
+    }
+  ],
   "communicationHistory": [
     {
       "index": 1,
